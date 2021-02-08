@@ -12,7 +12,7 @@ import org.springframework.stereotype.Component;
  */
 @Data
 @ConfigurationProperties(prefix = "developer")
-@PropertySource(value = {"classpath:application.properties"}, encoding = "utf-8")
+@PropertySource(value = {"classpath:application-${spring.profiles.active}.properties"}, encoding = "utf-8")
 @Component
 public class DeveloperProperty {
     private long id;

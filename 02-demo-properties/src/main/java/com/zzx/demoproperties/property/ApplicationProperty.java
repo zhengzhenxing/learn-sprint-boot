@@ -12,7 +12,7 @@ import org.springframework.stereotype.Component;
  */
 @Data
 @Component
-@PropertySource(value = {"classpath:application.properties"}, encoding = "utf-8")
+@PropertySource(value = {"classpath:application-${spring.profiles.active}.properties"}, encoding = "utf-8")
 public class ApplicationProperty {
     @Value("${application.name}")
     private String name;
