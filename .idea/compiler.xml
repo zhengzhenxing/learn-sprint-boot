@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="02-demo-properties" />
+        <module name="03-demo-actuator" />
         <module name="01-demo-helloworld" />
       </profile>
     </annotationProcessing>
@@ -16,6 +17,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="01-demo-helloworld" options="" />
       <module name="02-demo-properties" options="" />
+      <module name="03-demo-actuator" options="" />
     </option>
   </component>
 </project>

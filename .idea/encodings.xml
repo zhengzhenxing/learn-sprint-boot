@@ -5,6 +5,8 @@
     <file url="file://$PROJECT_DIR$/01-demo-helloworld/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/02-demo-properties/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/02-demo-properties/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-demo-actuator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-demo-actuator/src/main/resources" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
