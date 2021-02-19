@@ -8,16 +8,26 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="02-demo-properties" />
-        <module name="03-demo-actuator" />
+        <module name="admin-server" />
+        <module name="admin-client" />
         <module name="01-demo-helloworld" />
+        <module name="03-demo-actuator" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="adnub-server" target="1.8" />
+      <module name="demo-admin-server" target="8" />
+      <module name="wrapper" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="01-demo-helloworld" options="" />
       <module name="02-demo-properties" options="" />
       <module name="03-demo-actuator" options="" />
+      <module name="admin-client" options="" />
+      <module name="admin-server" options="" />
+      <module name="adnub-server" options="-parameters" />
     </option>
   </component>
 </project>
