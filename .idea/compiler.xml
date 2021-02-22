@@ -7,12 +7,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="06-demo-log-aop" />
         <module name="02-demo-properties" />
-        <module name="admin-server" />
         <module name="admin-client" />
-        <module name="05-demo-logback" />
         <module name="01-demo-helloworld" />
         <module name="03-demo-actuator" />
+        <module name="admin-server" />
+        <module name="05-demo-logback" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -27,6 +28,7 @@
       <module name="02-demo-properties" options="" />
       <module name="03-demo-actuator" options="" />
       <module name="05-demo-logback" options="" />
+      <module name="06-demo-log-aop" options="" />
       <module name="admin-client" options="" />
       <module name="admin-server" options="" />
       <module name="adnub-server" options="-parameters" />
