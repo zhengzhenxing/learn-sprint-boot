@@ -11,6 +11,8 @@
     <file url="file://$PROJECT_DIR$/04-demo-admin/admin-client/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/04-demo-admin/admin-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/04-demo-admin/admin-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05-demo-logback/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05-demo-logback/src/main/resources" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

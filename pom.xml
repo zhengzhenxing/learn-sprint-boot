@@ -12,6 +12,7 @@
         <module>02-demo-properties</module>
         <module>03-demo-actuator</module>
         <module>04-demo-admin</module>
+        <module>05-demo-logback</module>
     </modules>
     <packaging>pom</packaging>
 

@@ -1,0 +1,12 @@
+2021-02-22 08:52:49.924 ERROR 11532 --- [main] c.z.demologback.DemoLogbackApplication   DemoLogbackApplication.java:24: Spring boot启动初始化了 131 个 Bean
+2021-02-22 08:52:49.927 ERROR 11532 --- [main] c.z.demologback.DemoLogbackApplication   DemoLogbackApplication.java:29: 【SpringBootDemoLogbackApplication】启动异常：
+
+java.lang.ArithmeticException: / by zero
+	at com.zzx.demologback.DemoLogbackApplication.main(DemoLogbackApplication.java:27)
+
+2021-02-22 08:53:50.280 ERROR 16844 --- [main] c.z.demologback.DemoLogbackApplication   DemoLogbackApplication.java:24: Spring boot启动初始化了 131 个 Bean
+2021-02-22 08:53:50.284 ERROR 16844 --- [main] c.z.demologback.DemoLogbackApplication   DemoLogbackApplication.java:29: 【SpringBootDemoLogbackApplication】启动异常：
+
+java.lang.ArithmeticException: / by zero
+	at com.zzx.demologback.DemoLogbackApplication.main(DemoLogbackApplication.java:27)
+

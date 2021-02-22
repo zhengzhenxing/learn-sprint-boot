@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/03-demo-actuator/pom.xml" />
         <option value="$PROJECT_DIR$/04-demo-admin/admin-server/pom.xml" />
         <option value="$PROJECT_DIR$/04-demo-admin/admin-client/pom.xml" />
+        <option value="$PROJECT_DIR$/05-demo-logback/pom.xml" />
       </list>
     </option>
   </component>

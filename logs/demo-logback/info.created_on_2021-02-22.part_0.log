@@ -1,0 +1,27 @@
+2021-02-22 08:52:48.523  INFO 11532 --- [main] c.z.demologback.DemoLogbackApplication   : Starting DemoLogbackApplication using Java 1.8.0_261 on DESKTOP-NTI7EOG with PID 11532 (F:\workspace\Java\learn-sprint-boot\05-demo-logback\target\classes started by zzx-win10 in F:\workspace\Java\learn-sprint-boot)
+2021-02-22 08:52:48.526  INFO 11532 --- [main] c.z.demologback.DemoLogbackApplication   : No active profile set, falling back to default profiles: default
+2021-02-22 08:52:49.413  INFO 11532 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2021-02-22 08:52:49.423  INFO 11532 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-02-22 08:52:49.424  INFO 11532 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-02-22 08:52:49.562  INFO 11532 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/demo]   : Initializing Spring embedded WebApplicationContext
+2021-02-22 08:52:49.563  INFO 11532 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 972 ms
+2021-02-22 08:52:49.736  INFO 11532 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-02-22 08:52:49.910  INFO 11532 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path '/demo'
+2021-02-22 08:52:49.920  INFO 11532 --- [main] c.z.demologback.DemoLogbackApplication   : Started DemoLogbackApplication in 2.117 seconds (JVM running for 4.659)
+2021-02-22 08:52:49.922  INFO 11532 --- [main] c.z.demologback.DemoLogbackApplication   : Spring boot启动初始化了 131 个 Bean
+2021-02-22 08:52:49.924  WARN 11532 --- [main] c.z.demologback.DemoLogbackApplication   : Spring boot启动初始化了 131 个 Bean
+2021-02-22 08:53:48.742  INFO 16844 --- [main] c.z.demologback.DemoLogbackApplication   : Starting DemoLogbackApplication using Java 1.8.0_261 on DESKTOP-NTI7EOG with PID 16844 (F:\workspace\Java\learn-sprint-boot\05-demo-logback\target\classes started by zzx-win10 in F:\workspace\Java\learn-sprint-boot)
+2021-02-22 08:53:48.746  INFO 16844 --- [main] c.z.demologback.DemoLogbackApplication   : No active profile set, falling back to default profiles: default
+2021-02-22 08:53:49.722  INFO 16844 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2021-02-22 08:53:49.732  INFO 16844 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-02-22 08:53:49.733  INFO 16844 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-02-22 08:53:49.862  INFO 16844 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/demo]   : Initializing Spring embedded WebApplicationContext
+2021-02-22 08:53:49.863  INFO 16844 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1053 ms
+2021-02-22 08:53:50.060  INFO 16844 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-02-22 08:53:50.258  INFO 16844 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path '/demo'
+2021-02-22 08:53:50.274  INFO 16844 --- [main] c.z.demologback.DemoLogbackApplication   : Started DemoLogbackApplication in 2.253 seconds (JVM running for 5.045)
+2021-02-22 08:53:50.278  INFO 16844 --- [main] c.z.demologback.DemoLogbackApplication   : Spring boot启动初始化了 131 个 Bean
+2021-02-22 08:53:50.280  WARN 16844 --- [main] c.z.demologback.DemoLogbackApplication   : Spring boot启动初始化了 131 个 Bean
+2021-02-22 08:54:04.619  INFO 16844 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2021-02-22 08:54:11.045  INFO 10044 --- [main] c.z.demologback.DemoLogbackApplication   : Starting DemoLogbackApplication using Java 1.8.0_261 on DESKTOP-NTI7EOG with PID 10044 (F:\workspace\Java\learn-sprint-boot\05-demo-logback\target\classes started by zzx-win10 in F:\workspace\Java\learn-sprint-boot)
+2021-02-22 08:54:11.049  INFO 10044 --- [main] c.z.demologback.DemoLogbackApplication   : No active profile set, falling back to default profiles: default
