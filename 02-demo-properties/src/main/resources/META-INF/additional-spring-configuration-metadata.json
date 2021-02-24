@@ -1,0 +1,32 @@
+{
+  "properties": [
+    {
+      "name": "application.name",
+      "type": "java.lang.String",
+      "description": "Description for application.name."
+    },
+    {
+      "name": "application.version",
+      "type": "java.lang.String",
+      "description": "Description for application.version."
+    },
+    {
+      "name": "developer.id",
+      "type": "java.lang.Long",
+      "defaultValue": null,
+      "description": "Description for developer.id."
+    },
+    {
+      "name": "developer.name",
+      "type": "java.lang.String",
+      "defaultValue": "zzx",
+      "description": "Description for developer.name."
+    },
+    {
+      "name": "developer.sex",
+      "type": "java.lang.String",
+      "defaultValue": "男",
+      "description": "Description for developer.name."
+    }
+  ]
+}

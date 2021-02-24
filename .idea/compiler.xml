@@ -12,6 +12,7 @@
         <module name="admin-client" />
         <module name="01-demo-helloworld" />
         <module name="03-demo-actuator" />
+        <module name="07-demo-exception-handler" />
         <module name="admin-server" />
         <module name="05-demo-logback" />
       </profile>
@@ -29,6 +30,7 @@
       <module name="03-demo-actuator" options="" />
       <module name="05-demo-logback" options="" />
       <module name="06-demo-log-aop" options="" />
+      <module name="07-demo-exception-handler" options="" />
       <module name="admin-client" options="" />
       <module name="admin-server" options="" />
       <module name="adnub-server" options="-parameters" />

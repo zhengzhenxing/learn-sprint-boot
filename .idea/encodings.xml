@@ -15,6 +15,8 @@
     <file url="file://$PROJECT_DIR$/05-demo-logback/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/06-demo-log-aop/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/06-demo-log-aop/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07-demo-exception-handler/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07-demo-exception-handler/src/main/resources" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
