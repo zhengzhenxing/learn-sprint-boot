@@ -15,6 +15,10 @@
         <module>05-demo-logback</module>
         <module>06-demo-log-aop</module>
         <module>07-demo-exception-handler</module>
+        <module>08-demo-template-freemarker</module>
+        <module>09-demo-template-thymeleaf</module>
+        <module>10-demo-template-beetl</module>
+        <module>11-demo-template-enjoy</module>
     </modules>
     <packaging>pom</packaging>
 

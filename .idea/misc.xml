@@ -13,6 +13,10 @@
         <option value="$PROJECT_DIR$/05-demo-logback/pom.xml" />
         <option value="$PROJECT_DIR$/06-demo-log-aop/pom.xml" />
         <option value="$PROJECT_DIR$/07-demo-exception-handler/pom.xml" />
+        <option value="$PROJECT_DIR$/08-demo-template-freemarker/pom.xml" />
+        <option value="$PROJECT_DIR$/09-demo-template-thymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/10-demo-template-beetl/pom.xml" />
+        <option value="$PROJECT_DIR$/11-demo-template-enjoy/pom.xml" />
       </list>
     </option>
   </component>
