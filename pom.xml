@@ -19,6 +19,7 @@
         <module>09-demo-template-thymeleaf</module>
         <module>10-demo-template-beetl</module>
         <module>11-demo-template-enjoy</module>
+        <module>12-demo-orm-jdbctemplate</module>
     </modules>
     <packaging>pom</packaging>
 

@@ -25,6 +25,8 @@
     <file url="file://$PROJECT_DIR$/10-demo-template-beetl/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/11-demo-template-enjoy/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/11-demo-template-enjoy/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/12-demo-orm-jdbctemplate/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/12-demo-orm-jdbctemplate/src/main/resources" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

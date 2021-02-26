@@ -17,6 +17,7 @@
         <option value="$PROJECT_DIR$/09-demo-template-thymeleaf/pom.xml" />
         <option value="$PROJECT_DIR$/10-demo-template-beetl/pom.xml" />
         <option value="$PROJECT_DIR$/11-demo-template-enjoy/pom.xml" />
+        <option value="$PROJECT_DIR$/12-demo-orm-jdbctemplate/pom.xml" />
       </list>
     </option>
   </component>
